@@ -1,0 +1,46 @@
+.jumbotron h1{
+  text-align: center;
+  color: white;
+  font-size: 150px;
+}
+.btn{
+  background-color: #56A8AE;
+}
+.btn:hover{
+  background-color: #56A8AE;
+  text-decoration: underline;
+  cursor: pointer;
+}
+body{
+  font-family: 'Poiret One', cursive;
+  font-size: 1000;
+  text-align: center;
+  background-image: url(http://michaelvalenti.com/wp-content/uploads/2015/12/waterford-wheel-bw.jpg);
+  background-size: cover;
+  color: orange;
+}
+.jumbotron {
+  background-color: #43C1DE;
+  background-repeat: no-repeat;
+  opacity: 0.5;
+}
+input{
+  background-color: black;
+}
+form {
+  font-size: 20px;
+}
+.result{
+  font-size: 20px;
+}
+h4{
+  font-size: 100px;
+}
+#map{
+  /*fill map-wrapper parent element to 100%*/
+  height: 100%;
+  width: 100%;
+}
+#map-wrapper{
+  height: 500px;
+}

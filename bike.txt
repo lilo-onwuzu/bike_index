@@ -1,0 +1,6 @@
+As a user I want to:
+
+search for shared bike in area based on criteria
+record drop-off location
+send message to owner before and after lending (can personalize message)
+get directions to destination in the same application 
