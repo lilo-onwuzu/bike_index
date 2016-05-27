@@ -26,6 +26,10 @@ var time = moment().format('LT');
 
 $(document).ready(function() {
 
+  // get directions click listener
+
+
+
   // show current time synchronously. update every half a second.
   setInterval(function(){
     time = moment().format('LT');
